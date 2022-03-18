@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 class Fruit {
   public $name;
@@ -98,3 +99,7 @@ class Pakaian {
   $celana->message(); // OK. message() adalah public
   $celana->intro(); // ERROR. intro() adalah protected
 ?>
+=======
+htdgdhn
+afasksksa
+>>>>>>> ac6ca7ffd1cac304ac2b78f6a290895bdc043685
